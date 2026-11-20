@@ -1,0 +1,14 @@
+pandas
+numpy
+scipy
+scikit-learn
+xgboost
+matplotlib
+streamlit
+joblib
+fastapi
+uvicorn[standard]
+requests
+sqlalchemy
+psycopg2-binary
+python-dotenv
